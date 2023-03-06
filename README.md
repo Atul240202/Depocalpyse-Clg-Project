@@ -53,5 +53,5 @@ To run the website please login to your metamask or portis account and use the f
 - Network Name: Mumbai Testnet
 - RPC URL: https://rpc-mumbai.maticvigil.com/
 - Chain ID: 80001
-
+Notes link: https://docs.google.com/spreadsheets/d/1bOxqI8t-tf6bOb4UrzOnEDAswlYdBn9Bsi1TelSrqx8/edit#gid=1493794864
 Reload the website after connecting the metamask wallet.
